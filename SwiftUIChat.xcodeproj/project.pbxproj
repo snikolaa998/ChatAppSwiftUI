@@ -15,6 +15,7 @@
 		033C21E8283C2F36005BE612 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033C21E7283C2F36005BE612 /* Message.swift */; };
 		033C21EA283C2FB4005BE612 /* MessageBubble.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033C21E9283C2FB4005BE612 /* MessageBubble.swift */; };
 		033C21EC283C359B005BE612 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033C21EB283C359B005BE612 /* Extensions.swift */; };
+		033C21EE283C372E005BE612 /* MessageField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 033C21ED283C372E005BE612 /* MessageField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		033C21E7283C2F36005BE612 /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 		033C21E9283C2FB4005BE612 /* MessageBubble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageBubble.swift; sourceTree = "<group>"; };
 		033C21EB283C359B005BE612 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		033C21ED283C372E005BE612 /* MessageField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 			children = (
 				033C21E4283C29C0005BE612 /* TitleRow.swift */,
 				033C21E9283C2FB4005BE612 /* MessageBubble.swift */,
+				033C21ED283C372E005BE612 /* MessageField.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 				033C21D6283C26A9005BE612 /* ContentView.swift in Sources */,
 				033C21EC283C359B005BE612 /* Extensions.swift in Sources */,
 				033C21E8283C2F36005BE612 /* Message.swift in Sources */,
+				033C21EE283C372E005BE612 /* MessageField.swift in Sources */,
 				033C21EA283C2FB4005BE612 /* MessageBubble.swift in Sources */,
 				033C21D4283C26A9005BE612 /* SwiftUIChatApp.swift in Sources */,
 				033C21E5283C29C0005BE612 /* TitleRow.swift in Sources */,
